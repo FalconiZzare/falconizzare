@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an ERP & POS solution.<br>👯 I’m looking to collaborate on Javascript Applications, preferably NextJs and NodeJs<br>🌱 I’m currently learning DevSecOps
+🔭 I’m currently working on a Food & a Security Plaform, both driven by AI.<br>👯 I’m looking to collaborate on Javascript Applications, preferably NextJs and NodeJs<br>🌱 I’m currently learning Agentic AI & DevSecOps
 
 
 ## 🌐 Socials:
