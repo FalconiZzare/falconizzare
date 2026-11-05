@@ -32,4 +32,9 @@ Outside of code and software technologies, you'll find me watching anime, playin
 I’m currently researching AI security at Octopi AI & developing a governance layer for it.
 
 ### 🔬 Projects
-- Loading...
+- **[SongProof](https://www.talatmahmud.dev/projects/songproof)**: register a song from your phone and get a dual-chain, legally defensible proof of creation in minutes.
+  [App Store](https://apps.apple.com/us/app/songproof/id6752916525) · [Google Play](https://play.google.com/store/apps/details?id=com.songproofinc.songproof)
+- **[Better Enrollment](https://www.talatmahmud.dev/projects/better-enrollment)**: open-source Better Auth plugin for invite-only sign-up, shareable invite links and organization onboarding.
+  [Docs](https://better-enrollment.octopi.ai/) · [Source](https://github.com/OctopiAI/better-enrollment) · [npm](https://www.npmjs.com/package/@octopi-ai/better-enrollment)
+- **[Octopi AI](https://www.talatmahmud.dev/projects/octopi-ai)**: Kubernetes-native AI governance platform with real-time visibility, drift detection and policy enforcement for enterprise agents.
+  [Website](https://www.octopi.ai)
